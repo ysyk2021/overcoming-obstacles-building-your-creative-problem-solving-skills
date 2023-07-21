@@ -8,5 +8,4 @@ Throughout this book, you will explore different approaches to problem-solving, 
 
 Whether you are an entrepreneur, a professional, or simply looking to improve your personal problem-solving skills, this book has something to offer. By the end, you will have the tools and knowledge necessary to approach obstacles with confidence and creativity, and overcome them with ease. So let's get started on this journey towards building your creative problem-solving skills!
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.

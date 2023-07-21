@@ -1,8 +1,5 @@
 # Conclusion
 
-Final Thoughts on Overcoming Obstacles and Building Your Creative Problem-Solving Skills
-----------------------------------------------------------------------------------------
-
 In this book, we have explored various strategies and techniques for overcoming obstacles and building your creative problem-solving skills. We hope that the information and insights provided throughout the chapters have been helpful in developing your ability to approach challenges with greater confidence and creativity.
 
 Throughout the book, we emphasized the importance of embracing a growth mindset, which involves viewing obstacles as opportunities for learning and growth rather than insurmountable barriers. We also highlighted the importance of being curious, asking questions, and approaching problems from multiple perspectives in order to generate innovative solutions.
