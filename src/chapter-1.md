@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 Effective problem-solving is an essential skill in personal and professional contexts. In this chapter, we'll explore the importance of creative problem-solving and how to use this guide.
 

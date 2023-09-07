@@ -1,5 +1,3 @@
-Chapter 6: Applying Diverse Perspectives and Approaches
-=======================================================
 
 The Value of Diversity in Creative Problem-Solving
 --------------------------------------------------

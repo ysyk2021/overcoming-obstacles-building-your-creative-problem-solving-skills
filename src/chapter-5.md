@@ -1,5 +1,3 @@
-Chapter 5: Analyzing Problems and Identifying Root Causes
-=========================================================
 
 To effectively solve problems, it's important to identify and address the root causes of those problems. In this chapter, we'll explore the importance of accurately diagnosing problems and tips for identifying and addressing root causes.
 

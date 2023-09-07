@@ -1,5 +1,3 @@
-Chapter 11: Conclusion
-======================
 
 Final Thoughts on Overcoming Obstacles and Building Your Creative Problem-Solving Skills
 ----------------------------------------------------------------------------------------

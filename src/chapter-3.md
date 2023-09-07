@@ -1,5 +1,3 @@
-Chapter 3: Developing a Growth Mindset
-======================================
 
 A growth mindset is the belief that one's abilities and intelligence can be developed through hard work, dedication, and perseverance. In this chapter, we'll explore the role of a growth mindset in creative problem-solving and strategies for cultivating a growth mindset.
 

@@ -1,5 +1,3 @@
-Chapter 9: Collaborating and Communicating with Others
-======================================================
 
 The Importance of Collaboration and Communication in Problem-Solving
 --------------------------------------------------------------------

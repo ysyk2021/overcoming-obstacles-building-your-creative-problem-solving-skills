@@ -1,5 +1,3 @@
-Chapter 2: Recognizing Common Obstacles
-=======================================
 
 Effective problem-solving involves identifying and addressing obstacles that may impede progress. In this chapter, we'll explore how to recognize common obstacles in problem-solving and techniques for analyzing and addressing them.
 

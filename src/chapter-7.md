@@ -1,5 +1,3 @@
-Chapter 7: Experimenting with Solutions
-=======================================
 
 The Benefits of Experimentation in Problem-Solving
 --------------------------------------------------
