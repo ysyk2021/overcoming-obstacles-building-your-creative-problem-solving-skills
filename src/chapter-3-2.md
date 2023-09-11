@@ -1,5 +1,4 @@
-Chapter 4: Strategies for Cultivating a Growth Mindset
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore strategies for cultivating a growth mindset to enhance creative problem-solving skills. Adopting a growth mindset is crucial in overcoming obstacles and developing the resilience and open-mindedness necessary for effective problem-solving.
 

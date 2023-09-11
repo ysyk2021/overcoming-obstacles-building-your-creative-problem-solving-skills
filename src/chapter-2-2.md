@@ -1,5 +1,4 @@
-Chapter 7: Techniques for Analyzing and Addressing Obstacles
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore effective techniques for analyzing and addressing obstacles in the problem-solving process. By utilizing these techniques, readers can overcome challenges more efficiently and enhance their creative problem-solving skills.
 

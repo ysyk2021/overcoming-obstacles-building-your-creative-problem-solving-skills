@@ -1,5 +1,4 @@
-Chapter 6: The Value of Diversity in Creative Problem-Solving
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the immense value of diversity in the context of creative problem-solving. Embracing diversity, whether it be in backgrounds, perspectives, or experiences, brings a wealth of benefits to the problem-solving process. By understanding and harnessing the power of diversity, individuals and teams can enhance their ability to overcome obstacles and develop innovative solutions.
 

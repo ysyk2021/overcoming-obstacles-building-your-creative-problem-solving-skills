@@ -1,5 +1,4 @@
-Chapter 6: The Importance of Accurately Diagnosing Problems
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the significance of accurately diagnosing problems in the problem-solving process. Accurate problem diagnosis is a critical step that allows individuals to gain a deep understanding of the underlying issues and develop effective solutions.
 

@@ -1,5 +1,4 @@
-Chapter 7: The Role of a Growth Mindset in Creative Problem-Solving
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the crucial role of a growth mindset in fostering creative problem-solving skills. A growth mindset is essential for embracing challenges, persevering through obstacles, and unleashing one's full potential as an innovative problem solver.
 

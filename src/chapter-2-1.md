@@ -1,5 +1,4 @@
-Chapter 4: Identifying Common Obstacles in Problem-Solving
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the common obstacles that individuals may encounter during the problem-solving process. By identifying and understanding these obstacles, readers can develop strategies to overcome them and enhance their creative problem-solving skills.
 

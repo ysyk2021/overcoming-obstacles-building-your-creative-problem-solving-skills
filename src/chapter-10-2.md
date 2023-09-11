@@ -1,5 +1,4 @@
-Chapter 9: Strategies for Transferring Learning to Real-Life Situations
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore strategies for effectively transferring the knowledge and skills gained through creative problem-solving to real-life situations. Transferring learning is crucial for ensuring that problem-solving abilities have a meaningful impact beyond the learning environment.
 

@@ -1,5 +1,4 @@
-Chapter 6: The Connection Between Creative Problem-Solving and Practical Applications
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the essential connection between creative problem-solving and practical applications. Understanding how creative problem-solving translates into real-world solutions is crucial for harnessing its full potential and making a tangible impact.
 
